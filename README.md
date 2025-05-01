@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/moethicalhacker" target="blank"><img src="https://img.shields.io/twitter/follow/moethicalhacker?logo=twitter&style=for-the-badge" alt="moethicalhacker" /></a> </p>
 
-- 🔭 I’m currently working on [Bug bounty](Yeswehack)
+- 🔭 I’m currently working on **Bug bounty** (Yeswehack)
 
 - 🌱 I’m currently learning **Cloud ATTACKS**
 
-- 👯 I’m looking to collaborate on [Bug Bounty](Hackerone/Intigriti/BugCrowd)
+- 👯 I’m looking to collaborate on **Bug Bounty** (Hackerone/Intigriti/BugCrowd)
 
-- 🤝 I’m looking for help with [Creating Open Source Project](Ai&Bugs)
+- 🤝 I’m looking for help with [Creating Open Source security automation tools]
 
 - 💬 Ask me about **All type of Vulnerabilities**
 
